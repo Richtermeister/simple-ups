@@ -1,4 +1,15 @@
-<?php namespace SimpleUPS\AddressValidate;
+<?php
+
+/*
+* This file is part of the SimpleUPS library. library.
+*
+* (c) Ben Kuhl
+*
+* For the full copyright and license information, please view the LICENSE
+* file that was distributed with this source code.
+*/
+
+namespace SimpleUPS\AddressValidate;
 
 /**
  * @since 1.0
